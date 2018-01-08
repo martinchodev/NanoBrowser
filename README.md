@@ -3,6 +3,8 @@ Aplicación de ejemplo para el curso de introducción al desarrollo en Android d
 
 Coordinador: [Martín Vukovic](https://martin.tttdevs.com)
 
+![](Capturas/NanoBrowser.png)
+
 Navegador web super minimalista. 
 
 La mayoría de la lógica es gestionada automáticamente por el WebView. Permite volver atrás en el historial de navegación y muestra un diálogo de confirmación antes de cerrar la app.
